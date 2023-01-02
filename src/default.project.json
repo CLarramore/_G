@@ -1,6 +1,6 @@
 {
     "name": "-g",
     "tree": {
-        "$path": "Global"
+        "$path": "-g"
     }
 }
