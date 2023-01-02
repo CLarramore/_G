@@ -1,7 +1,10 @@
 [package]
 name = "clarramore/-g"
-version = "0.1.31"
+version = "0.1.35"
 registry = "https://github.com/UpliftGames/wally-index"
+description="An old multi-purpose function library."
+authors = ["VisualPlugin <Github : @Windows8>"]
 realm = "shared"
-
+include = ["src", "src/**", "wally.toml", "wally.lock", "default.project.json"]
+exclude = ["aftman.toml"]
 [dependencies]
